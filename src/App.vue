@@ -8,7 +8,7 @@
 				Challenge by
 				<a href="https://www.frontendmentor.io?ref=challenge" target="_blank"
 					>Frontend Mentor</a
-				>. Coded by <a href="#">Evgi Ss</a>.
+				>. Coded by <a href="https://github.com/EugiSs">Eugi Ss</a>.
 			</div>
 		</footer>
 	</div>
